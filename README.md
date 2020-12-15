@@ -4,6 +4,11 @@ The Sombrax Bot is a reference of [Sombra][sombra_link] from Overwatch.
 
 This bot is under developing!
 
+[[Invite]][invite_link]
+[[Website]][websiite_link]
+[[Support Server]][support_link]
+
+
 # Commands
 
 ## Fun
@@ -30,4 +35,6 @@ This bot is under developing!
 </a>
 
 [invite_link]: https://discord.com/oauth2/authorize?client_id=776584170112811029&permissions=2147483647&redirect_uri=https://the-6-divisions.tk/&response_type=code&scope=bot
+[website_link]:  https://the-6-divisions.tk/
+[support_link]: https://discord.gg/dcn7J2X
 [sombra_link]: https://playoverwatch.com/en-us/heroes/sombra/
