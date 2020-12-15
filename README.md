@@ -5,7 +5,7 @@ The Sombrax Bot is a reference of [Sombra][sombra_link] from Overwatch.
 This bot is under developing!
 
 [[Invite]][invite_link]
-[[Website]][websiite_link]
+[[Website]][website_link]
 [[Support Server]][support_link]
 
 
