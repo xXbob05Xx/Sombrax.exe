@@ -35,6 +35,6 @@ This bot is under developing!
 </a>
 
 [invite_link]: https://discord.com/oauth2/authorize?client_id=776584170112811029&permissions=2147483647&redirect_uri=https://the-6-divisions.tk/&response_type=code&scope=bot
-[website_link]:  https://the-6-divisions.tk/
+[website_link]:  https://xxbob05xx.tk/
 [support_link]: https://discord.gg/dcn7J2X
 [sombra_link]: https://playoverwatch.com/en-us/heroes/sombra/
